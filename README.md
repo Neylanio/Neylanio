@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://my.indeed.com/p/neylanios-gik0yiv">
     <img alt="Curriculum" src="https://img.shields.io/static/v1?label=&message=Curriculum&color=blue">          
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/neylanio-soares/">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=LinkdIn&color=blue">          
   </a>
