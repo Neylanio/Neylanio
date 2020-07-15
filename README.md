@@ -10,4 +10,4 @@
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue">          
   </a>
 </p>
-<blockquote align="center">“PS: Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
+<blockquote align="center">“ps: Feito é melhor que perfeito!”</blockquote>
